@@ -1,0 +1,1214 @@
+[
+  {
+    "id": "t12",
+    "category": "table",
+    "title": "Письменный стол",
+    "description": "Стол из сосны",
+    "price_rub": 6500,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 95
+    }
+  },
+  {
+    "id": "c04",
+    "category": "chair",
+    "title": "Рабочее кресло",
+    "description": "Чёрная тканевая обивка, высота регулируется.",
+    "price_rub": 4200,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "l09",
+    "category": "lamp",
+    "title": "Настольная лампа",
+    "description": "Лампа с белым светом, на подставке.",
+    "price_rub": 1500,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 4000
+    }
+  },
+  {
+    "id": "demo-1-1-01",
+    "category": "table",
+    "title": "Стол для рабочего места 1",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 2800,
+    "city_id": "taganrog",
+    "attributes": {
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-1-02",
+    "category": "table",
+    "title": "Стол для рабочего места 2",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 3650,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 80
+    }
+  },
+  {
+    "id": "demo-1-1-03",
+    "category": "table",
+    "title": "Стол для рабочего места 3",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 4500,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 95
+    }
+  },
+  {
+    "id": "demo-1-1-04",
+    "category": "table",
+    "title": "Стол для рабочего места 4",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 5350,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 100,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-1-05",
+    "category": "table",
+    "title": "Стол для рабочего места 5",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 6200,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 110
+    }
+  },
+  {
+    "id": "demo-1-1-06",
+    "category": "table",
+    "title": "Стол для рабочего места 6",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 7050,
+    "city_id": "taganrog",
+    "attributes": {}
+  },
+  {
+    "id": "demo-1-1-07",
+    "category": "table",
+    "title": "Стол для рабочего места 7",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 7900,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 60,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-1-08",
+    "category": "table",
+    "title": "Стол для рабочего места 8",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 8750,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 80
+    }
+  },
+  {
+    "id": "demo-1-1-09",
+    "category": "table",
+    "title": "Стол для рабочего места 9",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 9600,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 95
+    }
+  },
+  {
+    "id": "demo-1-1-10",
+    "category": "table",
+    "title": "Стол для рабочего места 10",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 10450,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 100,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-1-11",
+    "category": "table",
+    "title": "Стол для рабочего места 11",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 11300,
+    "city_id": "taganrog",
+    "attributes": {}
+  },
+  {
+    "id": "demo-1-1-12",
+    "category": "table",
+    "title": "Стол для рабочего места 12",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 12150,
+    "city_id": "taganrog",
+    "attributes": {
+      "width_cm": 120
+    }
+  },
+  {
+    "id": "demo-1-2-01",
+    "category": "chair",
+    "title": "Кресло для рабочего места 1",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 2000,
+    "city_id": "taganrog",
+    "attributes": {
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-2-02",
+    "category": "chair",
+    "title": "Кресло для рабочего места 2",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 2650,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": false
+    }
+  },
+  {
+    "id": "demo-1-2-03",
+    "category": "chair",
+    "title": "Кресло для рабочего места 3",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 3300,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "demo-1-2-04",
+    "category": "chair",
+    "title": "Кресло для рабочего места 4",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 3950,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": false,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-2-05",
+    "category": "chair",
+    "title": "Кресло для рабочего места 5",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 4600,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "demo-1-2-06",
+    "category": "chair",
+    "title": "Кресло для рабочего места 6",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 5250,
+    "city_id": "taganrog",
+    "attributes": {}
+  },
+  {
+    "id": "demo-1-2-07",
+    "category": "chair",
+    "title": "Кресло для рабочего места 7",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 5900,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": true,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-2-08",
+    "category": "chair",
+    "title": "Кресло для рабочего места 8",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 6550,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": false
+    }
+  },
+  {
+    "id": "demo-1-2-09",
+    "category": "chair",
+    "title": "Кресло для рабочего места 9",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 7200,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "demo-1-2-10",
+    "category": "chair",
+    "title": "Кресло для рабочего места 10",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 7850,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": false,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-2-11",
+    "category": "chair",
+    "title": "Кресло для рабочего места 11",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 8500,
+    "city_id": "taganrog",
+    "attributes": {}
+  },
+  {
+    "id": "demo-1-2-12",
+    "category": "chair",
+    "title": "Кресло для рабочего места 12",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 9150,
+    "city_id": "taganrog",
+    "attributes": {
+      "adjustable_height": false
+    }
+  },
+  {
+    "id": "demo-1-3-01",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 1",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 700,
+    "city_id": "taganrog",
+    "attributes": {
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-3-02",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 2",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 920,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 3000
+    }
+  },
+  {
+    "id": "demo-1-3-03",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 3",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 1140,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 4000
+    }
+  },
+  {
+    "id": "demo-1-3-04",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 4",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 1360,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 5000,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-3-05",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 5",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 1580,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 6500
+    }
+  },
+  {
+    "id": "demo-1-3-06",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 6",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 1800,
+    "city_id": "taganrog",
+    "attributes": {}
+  },
+  {
+    "id": "demo-1-3-07",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 7",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 2020,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 3000,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-3-08",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 8",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 2240,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 4000
+    }
+  },
+  {
+    "id": "demo-1-3-09",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 9",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 2460,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 5000
+    }
+  },
+  {
+    "id": "demo-1-3-10",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 10",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 2680,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 6500,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-1-3-11",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 11",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 2900,
+    "city_id": "taganrog",
+    "attributes": {}
+  },
+  {
+    "id": "demo-1-3-12",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 12",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 3120,
+    "city_id": "taganrog",
+    "attributes": {
+      "color_temperature_k": 3000
+    }
+  },
+  {
+    "id": "demo-2-1-01",
+    "category": "table",
+    "title": "Стол для рабочего места 1",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 3050,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-1-02",
+    "category": "table",
+    "title": "Стол для рабочего места 2",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 3900,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "width_cm": 80
+    }
+  },
+  {
+    "id": "demo-2-1-03",
+    "category": "table",
+    "title": "Стол для рабочего места 3",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 4750,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "width_cm": 95
+    }
+  },
+  {
+    "id": "demo-2-1-04",
+    "category": "table",
+    "title": "Стол для рабочего места 4",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 5600,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "width_cm": 100,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-1-05",
+    "category": "table",
+    "title": "Стол для рабочего места 5",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 6450,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "width_cm": 110
+    }
+  },
+  {
+    "id": "demo-2-1-06",
+    "category": "table",
+    "title": "Стол для рабочего места 6",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 7300,
+    "city_id": "rostov-na-donu",
+    "attributes": {}
+  },
+  {
+    "id": "demo-2-1-07",
+    "category": "table",
+    "title": "Стол для рабочего места 7",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 8150,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "width_cm": 60,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-1-08",
+    "category": "table",
+    "title": "Стол для рабочего места 8",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 9000,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "width_cm": 80
+    }
+  },
+  {
+    "id": "demo-2-1-09",
+    "category": "table",
+    "title": "Стол для рабочего места 9",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 9850,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "width_cm": 95
+    }
+  },
+  {
+    "id": "demo-2-1-10",
+    "category": "table",
+    "title": "Стол для рабочего места 10",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 10700,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "width_cm": 100,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-1-11",
+    "category": "table",
+    "title": "Стол для рабочего места 11",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 11550,
+    "city_id": "rostov-na-donu",
+    "attributes": {}
+  },
+  {
+    "id": "demo-2-1-12",
+    "category": "table",
+    "title": "Стол для рабочего места 12",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 12400,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "width_cm": 120
+    }
+  },
+  {
+    "id": "demo-2-2-01",
+    "category": "chair",
+    "title": "Кресло для рабочего места 1",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 2250,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-2-02",
+    "category": "chair",
+    "title": "Кресло для рабочего места 2",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 2900,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "adjustable_height": false
+    }
+  },
+  {
+    "id": "demo-2-2-03",
+    "category": "chair",
+    "title": "Кресло для рабочего места 3",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 3550,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "demo-2-2-04",
+    "category": "chair",
+    "title": "Кресло для рабочего места 4",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 4200,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "adjustable_height": false,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-2-05",
+    "category": "chair",
+    "title": "Кресло для рабочего места 5",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 4850,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "demo-2-2-06",
+    "category": "chair",
+    "title": "Кресло для рабочего места 6",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 5500,
+    "city_id": "rostov-na-donu",
+    "attributes": {}
+  },
+  {
+    "id": "demo-2-2-07",
+    "category": "chair",
+    "title": "Кресло для рабочего места 7",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 6150,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "adjustable_height": true,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-2-08",
+    "category": "chair",
+    "title": "Кресло для рабочего места 8",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 6800,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "adjustable_height": false
+    }
+  },
+  {
+    "id": "demo-2-2-09",
+    "category": "chair",
+    "title": "Кресло для рабочего места 9",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 7450,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "demo-2-2-10",
+    "category": "chair",
+    "title": "Кресло для рабочего места 10",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 8100,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "adjustable_height": false,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-2-11",
+    "category": "chair",
+    "title": "Кресло для рабочего места 11",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 8750,
+    "city_id": "rostov-na-donu",
+    "attributes": {}
+  },
+  {
+    "id": "demo-2-2-12",
+    "category": "chair",
+    "title": "Кресло для рабочего места 12",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 9400,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "adjustable_height": false
+    }
+  },
+  {
+    "id": "demo-2-3-01",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 1",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 950,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-3-02",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 2",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 1170,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color_temperature_k": 3000
+    }
+  },
+  {
+    "id": "demo-2-3-03",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 3",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 1390,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color_temperature_k": 4000
+    }
+  },
+  {
+    "id": "demo-2-3-04",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 4",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 1610,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color_temperature_k": 5000,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-3-05",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 5",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 1830,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color_temperature_k": 6500
+    }
+  },
+  {
+    "id": "demo-2-3-06",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 6",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 2050,
+    "city_id": "rostov-na-donu",
+    "attributes": {}
+  },
+  {
+    "id": "demo-2-3-07",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 7",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 2270,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color_temperature_k": 3000,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-3-08",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 8",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 2490,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color_temperature_k": 4000
+    }
+  },
+  {
+    "id": "demo-2-3-09",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 9",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 2710,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color_temperature_k": 5000
+    }
+  },
+  {
+    "id": "demo-2-3-10",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 10",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 2930,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color_temperature_k": 6500,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-2-3-11",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 11",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 3150,
+    "city_id": "rostov-na-donu",
+    "attributes": {}
+  },
+  {
+    "id": "demo-2-3-12",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 12",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 3370,
+    "city_id": "rostov-na-donu",
+    "attributes": {
+      "color_temperature_k": 3000
+    }
+  },
+  {
+    "id": "demo-3-1-01",
+    "category": "table",
+    "title": "Стол для рабочего места 1",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 3300,
+    "city_id": "azov",
+    "attributes": {
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-1-02",
+    "category": "table",
+    "title": "Стол для рабочего места 2",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 4150,
+    "city_id": "azov",
+    "attributes": {
+      "width_cm": 80
+    }
+  },
+  {
+    "id": "demo-3-1-03",
+    "category": "table",
+    "title": "Стол для рабочего места 3",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 5000,
+    "city_id": "azov",
+    "attributes": {
+      "width_cm": 95
+    }
+  },
+  {
+    "id": "demo-3-1-04",
+    "category": "table",
+    "title": "Стол для рабочего места 4",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 5850,
+    "city_id": "azov",
+    "attributes": {
+      "width_cm": 100,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-1-05",
+    "category": "table",
+    "title": "Стол для рабочего места 5",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 6700,
+    "city_id": "azov",
+    "attributes": {
+      "width_cm": 110
+    }
+  },
+  {
+    "id": "demo-3-1-06",
+    "category": "table",
+    "title": "Стол для рабочего места 6",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 7550,
+    "city_id": "azov",
+    "attributes": {}
+  },
+  {
+    "id": "demo-3-1-07",
+    "category": "table",
+    "title": "Стол для рабочего места 7",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 8400,
+    "city_id": "azov",
+    "attributes": {
+      "width_cm": 60,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-1-08",
+    "category": "table",
+    "title": "Стол для рабочего места 8",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 9250,
+    "city_id": "azov",
+    "attributes": {
+      "width_cm": 80
+    }
+  },
+  {
+    "id": "demo-3-1-09",
+    "category": "table",
+    "title": "Стол для рабочего места 9",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 10100,
+    "city_id": "azov",
+    "attributes": {
+      "width_cm": 95
+    }
+  },
+  {
+    "id": "demo-3-1-10",
+    "category": "table",
+    "title": "Стол для рабочего места 10",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 10950,
+    "city_id": "azov",
+    "attributes": {
+      "width_cm": 100,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-1-11",
+    "category": "table",
+    "title": "Стол для рабочего места 11",
+    "description": "Стол для дома. Аккуратное состояние.",
+    "price_rub": 11800,
+    "city_id": "azov",
+    "attributes": {}
+  },
+  {
+    "id": "demo-3-1-12",
+    "category": "table",
+    "title": "Стол для рабочего места 12",
+    "description": "Стол для дома. Есть следы использования.",
+    "price_rub": 12650,
+    "city_id": "azov",
+    "attributes": {
+      "width_cm": 120
+    }
+  },
+  {
+    "id": "demo-3-2-01",
+    "category": "chair",
+    "title": "Кресло для рабочего места 1",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 2500,
+    "city_id": "azov",
+    "attributes": {
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-2-02",
+    "category": "chair",
+    "title": "Кресло для рабочего места 2",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 3150,
+    "city_id": "azov",
+    "attributes": {
+      "adjustable_height": false
+    }
+  },
+  {
+    "id": "demo-3-2-03",
+    "category": "chair",
+    "title": "Кресло для рабочего места 3",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 3800,
+    "city_id": "azov",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "demo-3-2-04",
+    "category": "chair",
+    "title": "Кресло для рабочего места 4",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 4450,
+    "city_id": "azov",
+    "attributes": {
+      "adjustable_height": false,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-2-05",
+    "category": "chair",
+    "title": "Кресло для рабочего места 5",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 5100,
+    "city_id": "azov",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "demo-3-2-06",
+    "category": "chair",
+    "title": "Кресло для рабочего места 6",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 5750,
+    "city_id": "azov",
+    "attributes": {}
+  },
+  {
+    "id": "demo-3-2-07",
+    "category": "chair",
+    "title": "Кресло для рабочего места 7",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 6400,
+    "city_id": "azov",
+    "attributes": {
+      "adjustable_height": true,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-2-08",
+    "category": "chair",
+    "title": "Кресло для рабочего места 8",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 7050,
+    "city_id": "azov",
+    "attributes": {
+      "adjustable_height": false
+    }
+  },
+  {
+    "id": "demo-3-2-09",
+    "category": "chair",
+    "title": "Кресло для рабочего места 9",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 7700,
+    "city_id": "azov",
+    "attributes": {
+      "adjustable_height": true
+    }
+  },
+  {
+    "id": "demo-3-2-10",
+    "category": "chair",
+    "title": "Кресло для рабочего места 10",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 8350,
+    "city_id": "azov",
+    "attributes": {
+      "adjustable_height": false,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-2-11",
+    "category": "chair",
+    "title": "Кресло для рабочего места 11",
+    "description": "Кресло для дома. Аккуратное состояние.",
+    "price_rub": 9000,
+    "city_id": "azov",
+    "attributes": {}
+  },
+  {
+    "id": "demo-3-2-12",
+    "category": "chair",
+    "title": "Кресло для рабочего места 12",
+    "description": "Кресло для дома. Есть следы использования.",
+    "price_rub": 9650,
+    "city_id": "azov",
+    "attributes": {
+      "adjustable_height": false
+    }
+  },
+  {
+    "id": "demo-3-3-01",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 1",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 1200,
+    "city_id": "azov",
+    "attributes": {
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-3-02",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 2",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 1420,
+    "city_id": "azov",
+    "attributes": {
+      "color_temperature_k": 3000
+    }
+  },
+  {
+    "id": "demo-3-3-03",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 3",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 1640,
+    "city_id": "azov",
+    "attributes": {
+      "color_temperature_k": 4000
+    }
+  },
+  {
+    "id": "demo-3-3-04",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 4",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 1860,
+    "city_id": "azov",
+    "attributes": {
+      "color_temperature_k": 5000,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-3-05",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 5",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 2080,
+    "city_id": "azov",
+    "attributes": {
+      "color_temperature_k": 6500
+    }
+  },
+  {
+    "id": "demo-3-3-06",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 6",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 2300,
+    "city_id": "azov",
+    "attributes": {}
+  },
+  {
+    "id": "demo-3-3-07",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 7",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 2520,
+    "city_id": "azov",
+    "attributes": {
+      "color_temperature_k": 3000,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-3-08",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 8",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 2740,
+    "city_id": "azov",
+    "attributes": {
+      "color_temperature_k": 4000
+    }
+  },
+  {
+    "id": "demo-3-3-09",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 9",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 2960,
+    "city_id": "azov",
+    "attributes": {
+      "color_temperature_k": 5000
+    }
+  },
+  {
+    "id": "demo-3-3-10",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 10",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 3180,
+    "city_id": "azov",
+    "attributes": {
+      "color_temperature_k": 6500,
+      "color": "белый"
+    }
+  },
+  {
+    "id": "demo-3-3-11",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 11",
+    "description": "Лампа для дома. Аккуратное состояние.",
+    "price_rub": 3400,
+    "city_id": "azov",
+    "attributes": {}
+  },
+  {
+    "id": "demo-3-3-12",
+    "category": "lamp",
+    "title": "Лампа для рабочего места 12",
+    "description": "Лампа для дома. Есть следы использования.",
+    "price_rub": 3620,
+    "city_id": "azov",
+    "attributes": {
+      "color_temperature_k": 3000
+    }
+  }
+]
